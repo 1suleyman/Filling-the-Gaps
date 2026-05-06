@@ -16,3 +16,5 @@ Each entry is a small, focused lab or project designed to:
 2. [Networking Lab – Ports, Processes & Real Traffic Flow](https://github.com/1suleyman/Networking-Lab-Ports-Processes-Real-Traffic-Flow/tree/main) <br>Explored how ports bind to processes, how traffic flows through systems, and how to debug and route real network traffic using EC2, SSH, and NGINX <br> #networking #linux #aws #terraform #nginx #devops
 
 3. [AWS Linux Lab – Server Lifecycle, Patching & Service Management](https://github.com/1suleyman/AWS-Linux-Lab-Server-Lifecycle-Patching-Service-Management/tree/main) <br>Learned how to provision, secure, patch, and manage an EC2 Linux server using Terraform, systemd services, and Bash automation <br> #aws #linux #terraform #nginx #systemd #bash #devops
+
+4. [AWS PostgreSQL Lab – Database Install, Backup & Restore](https://github.com/1suleyman/AWS-PostgreSQL-Lab-Database-Install-Backup-Restore/tree/main) <br> Learned how to install, manage, back up, restore, and automate PostgreSQL databases on AWS EC2 while understanding database internals, IAM roles, and Linux automation <br> #postgresql #aws #linux #database #s3 #bash #cron #devops
