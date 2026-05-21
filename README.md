@@ -22,3 +22,6 @@ Each entry is a small, focused lab or project designed to:
 5. [AWS Backup Lab – Backup Governance, Recovery & Restore Operations](https://github.com/1suleyman/AWS-Backup-Lab-Backup-Governance-Recovery-Restore-Operations/tree/main)
 <br>Learned how AWS Backup manages recovery operations for EC2 and RDS, including snapshots, restore workflows, Multi-AZ networking, IAM permissions, and backup lifecycle governance <br>
 #aws #awsbackup #rds #ec2 #ebs #networking #iam #postgresql #devops
+
+6. [AWS Linux Storage Lab – Root Disk Exhaustion, Dedicated EBS Backup Volumes & Persistent Mounting](https://github.com/1suleyman/WS-Linux-Storage-Lab-Root-Disk-Exhaustion-Dedicated-EBS-Backup-Volumes-Persistent-Mounting/tree/main)
+<br> Learned how to diagnose Linux root disk exhaustion, attach and mount dedicated EBS storage, configure persistent file systems with fstab, and implement production-grade backup safety protections <br> #aws #linux #ebs #storage #filesystem #xfs #fstab #devops
