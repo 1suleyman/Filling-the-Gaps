@@ -25,3 +25,6 @@ Each entry is a small, focused lab or project designed to:
 
 6. [AWS Linux Storage Lab – Root Disk Exhaustion, Dedicated EBS Backup Volumes & Persistent Mounting](https://github.com/1suleyman/WS-Linux-Storage-Lab-Root-Disk-Exhaustion-Dedicated-EBS-Backup-Volumes-Persistent-Mounting/tree/main)
 <br> Learned how to diagnose Linux root disk exhaustion, attach and mount dedicated EBS storage, configure persistent file systems with fstab, and implement production-grade backup safety protections <br> #aws #linux #ebs #storage #filesystem #xfs #fstab #devops
+
+7. [GitLab CI/CD Lab – Self-Hosted Runner, Docker Executor, DIND & Disk Cleanup](https://github.com/1suleyman/GitLab-CI-CD-Lab-Self-Hosted-Runner-Docker-Executor-DIND-Disk-Cleanup)
+<br> Learned how to build and operate a self-hosted GitLab Runner on AWS, run CI/CD jobs in Docker containers, implement Docker-in-Docker workflows, and troubleshoot runner disk exhaustion in production-style environments <br> #gitlab #cicd #docker #dind #aws #ec2 #devops #automation #linux
