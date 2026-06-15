@@ -28,3 +28,6 @@ Each entry is a small, focused lab or project designed to:
 
 7. [GitLab CI/CD Lab – Self-Hosted Runner, Docker Executor, DIND & Disk Cleanup](https://github.com/1suleyman/GitLab-CI-CD-Lab-Self-Hosted-Runner-Docker-Executor-DIND-Disk-Cleanup)
 <br> Learned how to build and operate a self-hosted GitLab Runner on AWS, run CI/CD jobs in Docker containers, implement Docker-in-Docker workflows, and troubleshoot runner disk exhaustion in production-style environments <br> #gitlab #cicd #docker #dind #aws #ec2 #devops #automation #linux
+
+8. [Docker Images Lab – Image Builds, Containers, Ports & Image Optimization](https://github.com/1suleyman/Docker-Images-Lab-Image-Builds-Containers-Ports-Image-Optimization/tree/main)
+<br> Learned how Docker images are built and run, how containers interact with ports and processes, and how to optimize image size by reducing a Python-based image from 913 MB to 51.9 MB using Alpine Linux <br> #docker #containers #dockerfile #linux #devops #imageoptimization #networking #alpine
