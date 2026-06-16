@@ -31,3 +31,6 @@ Each entry is a small, focused lab or project designed to:
 
 8. [Docker Images Lab – Image Builds, Containers, Ports & Image Optimization](https://github.com/1suleyman/Docker-Images-Lab-Image-Builds-Containers-Ports-Image-Optimization/tree/main)
 <br> Learned how Docker images are built and run, how containers interact with ports and processes, and how to optimize image size by reducing a Python-based image from 913 MB to 51.9 MB using Alpine Linux <br> #docker #containers #dockerfile #linux #devops #imageoptimization #networking #alpine
+
+9. [Docker Run Lab – Containers, Port Publishing, Tags & Docker Hub Image Resolution](https://github.com/1suleyman/Docker-Run-Lab-Containers-Port-Publishing-Tags-Docker-Hub-Image-Resolution/tree/main)
+<br> Learned how Docker runs and exposes containers, how port publishing maps host traffic to container services, and how Docker resolves, pulls, and manages images using namespaces, repositories, and tags <br> #docker #containers #networking #dockerhub #linux #devops #portmapping #images #dockerrun
