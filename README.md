@@ -34,3 +34,6 @@ Each entry is a small, focused lab or project designed to:
 
 9. [Docker Run Lab – Containers, Port Publishing, Tags & Docker Hub Image Resolution](https://github.com/1suleyman/Docker-Run-Lab-Containers-Port-Publishing-Tags-Docker-Hub-Image-Resolution/tree/main)
 <br> Learned how Docker runs and exposes containers, how port publishing maps host traffic to container services, and how Docker resolves, pulls, and manages images using namespaces, repositories, and tags <br> #docker #containers #networking #dockerhub #linux #devops #portmapping #images #dockerrun
+
+10. [GitLab CI/CD Pipeline with Docker, AWS ECR, OIDC Authentication & EC2 Deployment](https://github.com/1suleyman/GitLab-CI-CD-Pipeline-with-Docker-AWS-ECR-OIDC-Authentication-EC2-Deployment/tree/main)
+<br> Built an end-to-end DevOps deployment pipeline that securely builds Docker images, authenticates to AWS using OIDC, stores images in Amazon ECR, deploys containers to EC2, and validates application health through automated GitLab CI/CD workflows <br> #gitlab #cicd #docker #aws #ecr #ec2 #oidc #iam #devops #automation #security #deployment
