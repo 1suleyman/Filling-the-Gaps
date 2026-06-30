@@ -37,3 +37,6 @@ Each entry is a small, focused lab or project designed to:
 
 10. [GitLab CI/CD Pipeline with Docker, AWS ECR, OIDC Authentication & EC2 Deployment](https://github.com/1suleyman/GitLab-CI-CD-Pipeline-with-Docker-AWS-ECR-OIDC-Authentication-EC2-Deployment/tree/main)
 <br> Built an end-to-end DevOps deployment pipeline that securely builds Docker images, authenticates to AWS using OIDC, stores images in Amazon ECR, deploys containers to EC2, and validates application health through automated GitLab CI/CD workflows <br> #gitlab #cicd #docker #aws #ecr #ec2 #oidc #iam #devops #automation #security #deployment
+
+11. [GitLab CI/CD Pipeline with Docker, AWS ECR, OIDC Authentication & EC2 Deployment (Production Workflow)](https://github.com/1suleyman/GitLab-CI-CD-Pipeline-with-Docker-AWS-ECR-OIDC-Authentication-EC2-Deployment/tree/main)
+<br> Designed and implemented a production-style CI/CD pipeline that securely builds, publishes, and deploys Docker applications using GitLab, Amazon ECR, OIDC-based AWS authentication, and automated EC2 deployments with health validation and deployment troubleshooting <br> #gitlab #cicd #docker #aws #ecr #ec2 #oidc #iam #automation #devops #security #cloud
